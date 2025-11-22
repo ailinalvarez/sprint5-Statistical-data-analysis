@@ -1,5 +1,5 @@
 # 📊 Sprint 5 – Statistical Data Analysis  
-### Recruiter-Friendly README  
+
 **Author: Ailin Alvarez**
 
 ---
@@ -50,8 +50,6 @@ This project demonstrates exactly that: the ability to turn raw data into **acti
 
 ## 🏁 Final Outcome  
 My analysis helps the company understand which plan brings higher revenue and why, supporting smarter pricing, marketing, and customer segmentation strategies.
-
----
 
 ---
 
